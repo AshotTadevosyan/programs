@@ -5,4 +5,6 @@ while (i < a.length) {
     i++;
 } */
 
+// commented out the previous code
 
+console.log("new line of code");
